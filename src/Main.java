@@ -16,6 +16,7 @@ public class Main {
 
         System.out.println("kompilator służy do pisania programów w danym języku programowania kompiluje on kod tak aby coś powstało");
         System.out.println("1- ctrl + c 2- ");
+        System.out.println("chuj");
 //        Wydrukuj informację do czego służy kompilator.
 //        Wydrukuj informację jakich skrótów użyjesz do zduplikowania fragmentu kodu oraz zaimportowania biblioteki.
 

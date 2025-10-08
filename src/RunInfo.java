@@ -7,5 +7,6 @@ public class RunInfo {
         System.out.println("Pracuję na komputerze o numerze 11 w sali 208 w Zespole Szkół im. ks. Stanisława Staszica w Tarnobrzegu");
 //        na branchu o nazwie 'task' w następnej linii dopisz miejscowość zamieszkania
         System.out.println("Mieszkam w Tarnobrzegu");
+        System.out.println("dwa chuje");
     }
 }
